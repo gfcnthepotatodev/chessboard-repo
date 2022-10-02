@@ -1,0 +1,27 @@
+body {
+    margin-top: 70px;
+    text-align: center;
+    
+
+}
+
+
+.box {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: -2px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.blue {
+    background: black;
+    color: white;
+}
+
+#hovereffect:hover {
+    background-image: url('hovereffect.jpg');
+    background-size: cover;
+}
